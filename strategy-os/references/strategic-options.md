@@ -34,6 +34,7 @@ A good option set is small, genuinely different, and mutually exclusive — not 
 |---|---|---|
 
 ## Evaluation
+(one column per option — add a fourth if you carried four)
 | Criterion (weight) | Opt A | Opt B | Opt C |
 |---|---|---|---|
 
