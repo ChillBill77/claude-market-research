@@ -1,25 +1,25 @@
 # Business Case Builder
 
-Turn a chosen strategy into an economic argument leadership can fund — clear about where value comes from, what it costs, and what it rides on.
+Coach the user to turn a chosen strategy into an economic argument leadership can fund — clear about where value comes from, what it costs, and what it rides on.
 
 ## Use it when
 
 - An option has been chosen and now needs to clear an investment bar.
-- You need a go/no-go view, a budget ask, or a number to defend.
+- They need a go/no-go view, a budget ask, or a number to defend.
 - Assumptions are doing the heavy lifting and need to be made visible and testable.
 
-## How to think about it
+## How to coach it
 
-A business case is a model of cause and effect, not a spreadsheet of hope. Start from the value drivers — the specific mechanisms by which this strategy makes or saves money — and size each one. Put the costs against them honestly, including the ones people prefer to forget (ramp, switching, run-rate). The case lives or dies on assumptions, so name them and show how the outcome moves under base, upside, and downside. A case that only works in the upside is a no. Decide against an explicit hurdle (payback, ROI, NPV, strategic threshold) rather than vibes.
+Coach the user to build a model of cause and effect, not a spreadsheet of hope. Start from value drivers — the specific mechanisms by which the strategy makes or saves money — and size each. Put honest costs against them, including the easily-forgotten ones. Make assumptions explicit and test sensitivity; a case that only works in the upside is a no. Decide against an explicit hurdle, not a vibe.
 
-## Steps
+## Step-by-step
 
-1. Restate the chosen option and the decision the case must support.
-2. List the value drivers and quantify each (range, not false precision).
-3. List the costs — one-time and ongoing — including the easily-missed ones.
-4. Make the key assumptions explicit and mark which ones the result is most sensitive to.
-5. Build base / upside / downside scenarios from those assumptions.
-6. Compare against the hurdle and give a clear go / no-go / conditional view.
+1. **Restate the option and the decision.** Ask what the case must support (fund it? proceed?); frame it with the user.
+2. **Build the value drivers.** Coach them to name each mechanism of value and size it as a range, not false precision.
+3. **List the costs.** Walk through one-time and ongoing costs; prompt for the ones people skip (ramp, switching, run-rate).
+4. **Expose the assumptions.** Help them state the key assumptions and mark which ones the result is most sensitive to.
+5. **Run scenarios.** Coach them to build base / upside / downside from those assumptions; check the downside is survivable.
+6. **Decide against the hurdle.** Compare to the bar (payback/ROI/NPV/strategic) and help them give a clear go / no-go / conditional; confirm with them.
 
 ## Deliverable
 

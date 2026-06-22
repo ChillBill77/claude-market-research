@@ -1,25 +1,25 @@
 # Decision Memo
 
-A board-ready write-up that leads with the answer and asks for a specific decision — built so a busy reader can act from the first paragraph.
+Coach the user to write a board-ready memo that leads with the answer and asks for a specific decision — so a busy reader can act from the first paragraph.
 
 ## Use it when
 
 - A recommendation is ready and needs sign-off from leadership or a board.
-- You need to compress an engagement into one page that drives a decision.
+- An engagement must be compressed into one page that drives a decision.
 - The risk is a memo that informs but never actually asks for anything.
 
-## How to think about it
+## How to coach it
 
-Answer first. The recommendation goes at the top, before the reasoning — the reader should know what you're advising in the first sentence and could stop there if they trust you. Support it with the *few* reasons that carry the argument, not every analysis you ran. Be straight about cost and the real risks (a memo with no risks reads as naive). Then make the ask explicit: name the exact decision being requested, by whom, by when. A memo that ends without a clear ask is a status update, not a decision document.
+Coach answer-first discipline. The recommendation goes at the top, before the reasoning — the reader should know the advice in the first sentence. Help the user keep only the few reasons that carry the argument, be straight about cost and real risks, and — the part people skip — make the ask explicit: the exact decision, by whom, by when. A memo with no clear ask is a status update, not a decision document.
 
-## Steps
+## Step-by-step
 
-1. Write the recommendation as a single, unambiguous sentence.
-2. Give the 3–4 reasons that actually justify it, strongest first.
-3. State what it costs and what's being asked for (money, people, time).
-4. Name the top risks and how each is managed — honestly.
-5. Spell out the explicit decision requested: who decides, what, by when.
-6. Cut everything that doesn't change the decision; push detail to an appendix.
+1. **Draft the recommendation.** Ask the user for their advice and help them compress it to one unambiguous sentence.
+2. **Find the few reasons.** Coach them to give the 3–4 reasons that actually justify it, strongest first; cut the rest.
+3. **State cost and ask.** Walk through what it costs and what's being requested (money, people, time).
+4. **Name risks honestly.** Help them surface the top risks and how each is managed; a no-risk memo reads as naive.
+5. **Make the decision explicit.** Pin down who decides, what exactly, by when.
+6. **Cut to one page.** Coach them to push supporting detail to an appendix and confirm the memo reads answer-first.
 
 ## Deliverable
 

@@ -1,31 +1,25 @@
 # Situation Assessment
 
-A current-state read you can defend before anyone argues about what to do. The point is to separate what is known from what is guessed, and to surface the few facts that actually move the decision.
+Coach the user to build a current-state read they can defend — separating what is known from what is guessed, and surfacing the few facts that actually move the decision.
 
 ## Use it when
 
-- Kicking off any strategy work and you need a shared, fact-based starting point.
+- Kicking off strategy work and you need a shared, fact-based starting point.
 - A turnaround, performance review, or "where do we really stand?" question.
-- Leadership disagrees on the basics and the debate keeps jumping to solutions.
+- Leadership keeps jumping to solutions before agreeing on the basics.
 
-## How to think about it
+## How to coach it
 
-Resist the pull toward answers. First build the picture. Three things must stay visibly separate, or the rest of the engagement inherits hidden errors:
+Hold the user back from answers until the picture is built. Coach them to keep three things visibly separate — facts, inferences, and unknowns — because conflating them poisons everything downstream. Guide them across only the angles that matter for *this* decision, then push hard to isolate the handful of load-bearing facts. Most facts are background; a few would change the call.
 
-- **Facts** — observable, sourced, hard to dispute.
-- **Inferences** — reasonable reads of the facts, but still interpretation.
-- **Unknowns** — what you'd need to know and don't yet.
+## Step-by-step
 
-Cover the angles that matter for *this* decision rather than a generic checklist — typically some mix of performance/economics, market position, customer momentum, competitive posture, internal capability, and constraints (capital, talent, time, regulation). Then ruthlessly pull out the handful of facts that would change the decision if they were different. Most facts are background; a few are load-bearing.
-
-## Steps
-
-1. State the decision the assessment must serve, and the time/scope it covers.
-2. Gather what's available: numbers, trends, customer signals, competitive moves, recent changes.
-3. Sort every item into Fact / Inference / Unknown — be honest about which is which.
-4. Organize the facts by the angles relevant to the decision (no overlaps, no gaps).
-5. Identify the load-bearing facts — the few that would flip the call.
-6. Turn the biggest Unknowns into the next questions to resolve.
+1. **Frame the decision.** Ask the user what call this assessment must serve, and over what scope/timeframe. Help them state it crisply before gathering anything.
+2. **Gather what's available.** Ask for the numbers, trends, customer signals, and recent changes they have. Don't let them theorize yet.
+3. **Sort fact vs. inference vs. unknown.** Take their inputs and coach them to label each honestly; challenge anything dressed up as fact.
+4. **Organize by decision-relevant angles.** Help them group facts (performance, market, customers, operations, organization — as relevant), no overlaps or gaps.
+5. **Find the load-bearing facts.** Push them to name the few facts that would flip the decision if different.
+6. **Turn unknowns into next questions.** Help them convert the biggest gaps into the questions to resolve next; confirm the read with them.
 
 ## Deliverable
 

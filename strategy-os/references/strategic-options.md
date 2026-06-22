@@ -1,6 +1,6 @@
 # Strategic Options
 
-A disciplined way to develop and choose between distinct strategic paths — so the recommendation survives the "what about…?" questions.
+Coach the user to develop and choose between genuinely distinct strategic paths — so the recommendation survives the "what about…?" questions.
 
 ## Use it when
 
@@ -8,18 +8,18 @@ A disciplined way to develop and choose between distinct strategic paths — so 
 - There's pressure to lock in the first plausible idea before alternatives exist.
 - A real fork: enter/exit, build/buy/partner, focus/expand, defend/attack.
 
-## How to think about it
+## How to coach it
 
-A good option set is small, genuinely different, and mutually exclusive — not three flavors of the same move plus a strawman. Each option should be a coherent bet you could actually fund. Judge them against criteria tied to the decision (value, feasibility, risk, time-to-impact, fit with capabilities), not gut feel. Make the trade-offs explicit: the right answer usually wins on the criteria that matter most, not on every criterion. Name what would have to be true for the recommended option to work.
+Push the user to create a small set of options that are genuinely different and mutually exclusive — not three flavors of the same move plus a strawman. Coach each option into a coherent bet they could actually fund. Insist on criteria tied to the decision, and make the trade-offs explicit: the winner usually leads on the criteria that matter most, not on every one. Always pin down what would have to be true for the recommended path to work.
 
-## Steps
+## Step-by-step
 
-1. Restate the strategic question and the must-meet constraints.
-2. Generate 3–4 distinct, mutually-exclusive options (include a credible "do less / status quo" if relevant).
-3. Define the evaluation criteria and weight them by what matters for this decision.
-4. Assess each option against the criteria, with reasoning, not just scores.
-5. Identify each option's key risks and the conditions required for it to succeed.
-6. Recommend one, state the trade-off you're accepting, and the early signals that would tell you to change course.
+1. **Restate the question and constraints.** Ask the user for the strategic question and any must-meet constraints; sharpen it with them.
+2. **Generate distinct options.** Coach them to 3–4 mutually-exclusive paths (include a credible "do less / status quo" if relevant); challenge near-duplicates.
+3. **Set evaluation criteria.** Help them choose and weight criteria by what matters for this decision — not a generic list.
+4. **Assess each option.** Walk through the options against the criteria with reasoning, not just scores; fill gaps in their thinking.
+5. **Surface risks and "must-be-true".** For the leading options, ask what could break them and what assumptions they ride on.
+6. **Land the recommendation.** Help the user choose one, name the trade-off accepted, and the signals that would justify revisiting; confirm with them.
 
 ## Deliverable
 

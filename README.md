@@ -1,6 +1,6 @@
 # Strategy OS for Claude
 
-A collection of [Claude Code](https://claude.com/claude-code) **Skills** that run McKinsey/BCG/Bain-style strategy work — from first diagnosis to a board-ready recommendation. Built on the MBB spine: crisp framing, MECE structure, hypothesis-led analysis, 80/20 focus, answer-first communication.
+A collection of [Claude Code](https://claude.com/claude-code) **Skills** that **coach** you through McKinsey/BCG/Bain-style strategy work — from first diagnosis to a board-ready recommendation, one step at a time. Built on the MBB spine: crisp framing, MECE structure, hypothesis-led analysis, 80/20 focus, answer-first communication.
 
 ## The engagement (6 phases)
 
@@ -9,17 +9,19 @@ A collection of [Claude Code](https://claude.com/claude-code) **Skills** that ru
         →  4. Operating Model & Execution  →  5. Govern Risk & Value  →  6. Align & Communicate
 ```
 
-Phases 4–5 are on the roadmap (see below).
+All six phases are built. `strategy-os` coaches you through each — it explains a step, asks for your input, helps you sharpen it, and only then moves on (no framework dumps).
 
 ## Skills
 
-### `strategy-os/` — the orchestrator
-Runs the full six-phase engagement and, at each phase, applies the right method or hands off to the right skill. Ships with four clean-room method playbooks in `strategy-os/references/`:
+### `strategy-os/` — the coach / orchestrator
+Guides the full six-phase engagement, applying the right method or handing off to the right skill at each step. Ships with eleven clean-room, step-by-step coaching playbooks in `strategy-os/references/`:
 
-- **situation-assessment** (Phase 1) — a defensible current-state read; facts vs. inferences vs. unknowns.
-- **strategic-options** (Phase 3) — develop distinct paths, judge them, recommend with trade-offs.
-- **business-case-builder** (Phase 3) — turn the choice into an economic case (value, cost, scenarios, go/no-go).
-- **decision-memo** (Phase 6) — an answer-first, board-ready memo that asks for a specific decision.
+- **Phase 1 — Diagnosis:** `situation-assessment`
+- **Phase 2 — Market & Competitive Intelligence:** handled by the `market-research` skill (below)
+- **Phase 3 — Strategic Choice:** `strategic-options`, `business-case-builder`
+- **Phase 4 — Operating Model & Execution:** `operating-model-design`, `initiative-prioritizer`, `transformation-roadmap`
+- **Phase 5 — Risk, Performance & Governance:** `risk-and-mitigation`, `kpi-architect`, `value-realization`, `war-gaming`
+- **Phase 6 — Alignment & Communication:** `decision-memo`
 
 ### `market-research/` — the Phase-2 engine
 MBB-grade market, customer, and competitive research with an independent adversarial verification gate and a presentation-ready PPTX. `strategy-os` hands off to it for Phase 2. See [`market-research/README.md`](market-research/README.md).
@@ -36,13 +38,11 @@ cp -r strategy-os market-research ~/.claude/skills/
 cp -r strategy-os market-research /path/to/project/.claude/skills/
 ```
 
-Then restart Claude Code. `strategy-os` references `market-research`, so install both for the full engagement.
+Then restart Claude Code. `strategy-os` references `market-research`, so install both for the full engagement. Prebuilt packages are in [`dist/`](dist/).
 
 ## Roadmap
 
-- **Phase 4 — Operating Model & Execution:** operating-model design, initiative prioritization, transformation roadmap.
-- **Phase 5 — Risk, Performance & Value Governance:** risk & mitigation, KPI design, value realization, war-gaming.
-- **More per-phase methods:** growth-barriers, assumption-audit, pricing-strategy, portfolio-review, narrative-builder, stakeholder-alignment, and others.
+Future cycles can add more method playbooks per phase: growth-barriers and assumption-audit (Phase 1); pricing-strategy and portfolio-review (Phase 3); narrative-builder and stakeholder-alignment (Phase 6).
 
 ## License
 
