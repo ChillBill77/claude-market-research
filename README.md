@@ -1,6 +1,6 @@
-# Strategy OS for Claude
+# MBB Skills for Claude
 
-A collection of [Claude Code](https://claude.com/claude-code) **Skills** that **coach** you through McKinsey/BCG/Bain-style strategy work — from first diagnosis to a board-ready recommendation, one step at a time. Built on the MBB spine: crisp framing, MECE structure, hypothesis-led analysis, 80/20 focus, answer-first communication.
+A collection of [Claude Code](https://claude.com/claude-code) **Skills** that **coach** you through McKinsey/BCG/Bain-style strategy work, from first diagnosis to a board-ready recommendation, one step at a time. Built on the MBB spine: crisp framing, MECE structure, hypothesis-led analysis, 80/20 focus, answer-first communication.
 
 ## The engagement (6 phases)
 
